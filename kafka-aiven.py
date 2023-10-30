@@ -1,4 +1,3 @@
-#from kafka import KafkaProducer
 from confluent_kafka import Producer
 import json
 import uuid
