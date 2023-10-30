@@ -43,6 +43,4 @@ print(f"Produced message: {event_data}")
 
 producer.flush()
 
-# Close the producer when done
-# producer.close()
 
